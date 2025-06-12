@@ -1,7 +1,7 @@
 
 # [Orderan-ID](https://orderan.id)
 
-High Performance Landing Page Builder &amp; Order Management
+High Performance Landing Page Builder &amp; Order Management built on RemixJS and TypeScript. Try it here [Orderan.ID](https://app.orderan.id/auth/register)
 
 
 <div style="text-align:center;">
