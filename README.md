@@ -1,12 +1,10 @@
 
 # [Orderan-ID](https://orderan.id)
 
-High Performance Landing Page Builder &amp; Order Management built on RemixJS and TypeScript. Try it here [Orderan.ID](https://app.orderan.id/auth/register)
+#### High Performance Landing Page Builder &amp; Order Management built on RemixJS and TypeScript. Try it here [Orderan.ID](https://app.orderan.id/auth/register)
 
+![Designer (2)](https://github.com/user-attachments/assets/468d88a8-ff59-4a1d-8e5e-a94b6c3209ca)
 
-<div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/7a6731b1-2497-4b52-af5e-3f0a5e21df24" width="480"/>
-</div>
 
 **Orderan.ID** is a platform for building Landing Pages, Order Management, and Logistics Management. Perfect for Digital marketers, Affiliates, Dropshippers and Online sellers
 
