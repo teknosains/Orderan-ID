@@ -50,6 +50,9 @@ Drag & Drop interface: Simply drag components like Text, Images, Buttons, Links,
   <img width="840" alt="Screenshot 2025-06-12 at 15 30 42" src="https://github.com/user-attachments/assets/306db8e1-8a12-4ffa-a6a7-84f643e18867" />
 </kbd>
 <br>&nbsp;</br>
+
+### Super mobile friendly Editor. Build landing pages anywhere anytime using mobile devices
+
 <img width="280" alt="Orderan ID Mobile View" src="https://github.com/user-attachments/assets/0de7b443-8cf9-4036-9c96-bab16b56b01f" />
 <img width="280" alt="Orderan ID Mobile View 2" src="https://github.com/user-attachments/assets/1ff5adab-205a-4675-b8b4-b061a9ef1cbc" />
 <img width="280" alt="Orderan ID Mobile View 3" src="https://github.com/user-attachments/assets/39fc0dcd-5b60-4ed2-b7d6-7440f2e20ef0" />
