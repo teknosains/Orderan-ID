@@ -58,3 +58,8 @@ Drag & Drop interface: Simply drag components like Text, Images, Buttons, Links,
 <img width="280" alt="Orderan ID Mobile View 3" src="https://github.com/user-attachments/assets/39fc0dcd-5b60-4ed2-b7d6-7440f2e20ef0" />
 <img width="280" alt="Orderan ID Mobile View 3" src="https://github.com/user-attachments/assets/fe000548-486c-40aa-9746-fed76d1b8c3d" />
 
+#### Landing Page Library
+
+This project is made possible because of the awesome library of GrapeJS
+
+https://github.com/GrapesJS/grapesjs
